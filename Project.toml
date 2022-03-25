@@ -3,6 +3,14 @@ uuid = "9b3d9bbe-4d7e-4399-9c05-3f6e187947b5"
 authors = ["tcarion <tristan.carion@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Flexpart = "fb362612-c2d8-4302-a9fd-a07f2890630f"
+JSServe = "824d6782-a2ef-11e9-3a09-e5662e0c26f9"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Rasters = "a3a2b9e3-a471-40c9-b274-f788e487c689"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
+
 [compat]
 julia = "1"
 
